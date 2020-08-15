@@ -8,3 +8,7 @@ h1 {
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+form{
+    padding: 20px;
+}
